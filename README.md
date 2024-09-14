@@ -5,5 +5,14 @@
 <img width="1440" alt="Screen Shot 2024-09-14 at 3 34 28 AM" src="https://github.com/user-attachments/assets/facb842e-12bf-42f4-a08f-5bc54b3f3331">
 
 
+- [Demo Project](https://sarvinnazeri.github.io/Pop-Up/)
+  
+- Developed by sarvin nazeri
 
-https://sarvinnazeri.github.io/Pop-Up/
+- Created - 2024-7-2
+
+- Technologies Used - Html , css , tailwind , js
+
+- Role - Frontend
+
+- How to reach me : with my [linkedin](https://www.linkedin.com/in/sarvin-nazeri)
